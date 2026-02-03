@@ -1,116 +1,142 @@
-# Welcome to RealWorldEvolution  
-# 欢迎来到真实世界的演化
- 我们刚刚使用github，有失误之处还望理解，感谢大家的帮助
-
-
-# 《存在的定义及世界统一原理》
- https://philpapers.org/rec/GAOXPO
- 
-# 这是世界演化的最小逻辑单元
-# 也是世界各个层面的通用逻辑。
-  
-# 我们在这里做两件事
- 
- 1，作为最小逻辑单元，真实世界的推理演化。 AlphaGo作为突破人类顶尖水平的围棋AI，它抛弃了棋谱，完全从最小逻辑进行推演，从而演化了算法逻辑。那么对我们这个世界，《存在的定义及世界统一原理》便是这最小的逻辑单元。
- 
-  尽管可能没有算力能实现这个目标。 我们依然可以通过优化的小单元自组织的迭代演化，获取超过我们的逻辑体系。 
-  
-  我们将继续对《存在的定义及世界统一原理》进行实例化和规则细化。
-  
- 2，最为通用逻辑，我们将依据《存在的定义及世界统一原理》对现有世界的知识体系进行重新解释。
- 
-  物理方面： 同频共振，量子力学，量子纠缠，光速，空间和时间，质量和引力 等等
-  
-  化工，工程，数学 等等
-  
-  人的意识是什么，涌现是必然，智能的本质，等等复杂系统的规律
-  
-  社会，经济，人文等等
-  
-  个体成长，心理等等
-  
-  佛学，国学，中医等等
-  
-  尽管当 1 中的AI产生了超过我们的逻辑体系之后这个可能没有必要。 现阶段我们人类依然需要新的科技突破。
- 
- 
- 
- 
-# 规则
- 
- 1，仓库的选择：因为我们想在gitee和github同时进行，为了减少同步的冲突问题和管理的协调问题，以及可能会出现的问题。 我们分别在gitee和github创建了单独的仓库，并且互为备份。 
- 
- 在gitee的用户上请大家使用 RealWorldEvolutionGitee 这个仓库
- https://gitee.com/buzhiyuci/RealWorldEvolutionGitee
- 
- 在github的用户请大家使用 RealWorldEvolution 这个仓库
- https://github.com/zhendebuzhiyuci/RealWorldEvolution
- 
- 2，为了充分展示大家的内容和保证最终结果的有效性，我们采用了三级展示分支。
- 
- PreSubmission 作为基础分支，所有人都可以提交，充分展示提交的内容
- 
- Submission 作为审核通过的分支，有部分权限的人可以合并，展示经过筛选的内容
- 
- main作为最终分支，展示经过人们认可的内容
- 
- 
- 3，提交内容的最基本要求
- 
- 运用 《存在的定义及世界统一原理》 进行分析，符合平台和地方法规
- 
+# Welcome to RealWorldEvolution
+# Welcome to the evolution of the real world
+We have just used GitHub and if there are any mistakes, please bear with us. Thank you all for your help. 
 
 
 
+# "The definition of existence and the principle of the unity of the world" https://philpapers.org/rec/GAOTDO-5
 
+# This is the smallest logical unit of the world's evolution.
 
-# 什么人可以参与
+# It is also the universal logic across all levels of the world. 
+
+# We are doing two things here 
+
+1. The new AI algorithm：
+
+ As the smallest logical unit, the reasoning evolution in the real world. 
  
- 人人都可以，只要认识和理解了《存在的定义及世界统一原理》，就可以参与进来。
+ AlphaGo, as an AI for Go that surpasses the top human level, abandoned the game records and completely carried out reasoning from the smallest logic, thereby evolving the algorithm logic. 
  
- 认识和理解是一个过程，根据我这几年的感悟，做到一下3点更容易理解《存在的定义及世界统一原理》
+ Then for our world, "The Definition of Existence and the Principle of World Unity" is this smallest logical unit. 
+Although there may not be any computing power capable of achieving this goal. We can still obtain something beyond our logical framework through the iterative evolution of self-organizing small units. 
+
+We will continue to implement and refine the rules for "The definition of existence and the principle of the unity of the world". 
+
+2.The new knowledge system：
+
+ As for the most common logic, we will reinterpret the existing knowledge system of the world based on "The definition of existence and the principle of the unity of the world". 
  
-1，相对性
+Physics aspects: Resonance at the same frequency, quantum mechanics, quantum entanglement, the speed of light, space and time, mass and gravity, etc. 
 
-求真务实，认识并接受人类由世界创造，人类反过来认识这个世界的现实情况。这就是我们局限性，上不见顶，下不见底。一切应从相对角度出发。 相对的理论，相对的认知，相对的对错。视角更广，想象更开阔，思考更深入。
+Chemistry, engineering, mathematics, etc. 
 
-2，平等
+What is human consciousness? Emergence is inevitable. The essence of intelligence... The laws governing complex systems. 
 
-只有锻炼平等看待一切事物的能力，也就是平视的能力，才能更客观的理解这个世界。所有人生来都是平等的，人人平等，众生平等，一切平等。才能由一人之我，感同身受家庭之我、国家之我、世界之我，亦可感受细胞之我、原子之我，乃至原本之我。我将无我。
+Social, economic, cultural, and other aspects 
 
-3，历史分析和结构分析相结合
+Individual growth, psychology, etc. 
 
-对待一个事物，要从科学的结构分析方法，个体的生命成长过程，历史的物种演变方法，这三个角度立体的理解。 以人的大脑为例，从科学的结构分析方法来看，我们知道大脑的结构分布，并了解具体功能。以个体的生命成长过程，我们理解大脑的硬件基础和成长，经历锻炼大脑的过程。 以历史的物种演变我们知道大脑经历神经传导，状态机控制，情绪和情感功能，以及人的抽象世界的建立。
- 
- 
- 
- 
- # 我们也会一直进行社区分享
+Buddhism, Confucianism, Traditional Chinese Medicine, etc. 
 
-  1，微信公众号 真的不止于此 
-  
-     https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk3NTE5NjA4OA==&action=getalbum&album_id=4345637659667546119&from_itemidx=1&from_msgid=2247483751&#wechat_redirect
-	 
-     有系列的文章， 因为目前经费紧张，设置为付费，希望大家支持。
-	 
-  2， 视频号，抖音，B站，小红书，知乎：   账号均为  真的不止于此  。视频内容等待更新。   
-  
-  3， 出版书籍 等待更新
-  
-  4， facebook
-  
-      https://www.facebook.com/profile.php?id=61586975467381
-	  
-	  X.com
-	  
-	  https://x.com/ben_shan_
-	  
-	  youtube
-	  
-	  https://www.youtube.com/channel/UC4vW809nsqor9V0cbWr7e2w
-	  
-	  
-	  
-	  
+Although this might not be necessary when the AI in 1 surpasses our logical system, at present, we still need new technological breakthroughs. 
 
-	  
+
+
+# Rules 
+1. Warehouse selection: Since we want to operate simultaneously on Gitee and GitHub, in order to reduce the conflicts during synchronization and the coordination issues in management, as well as potential problems that may arise. We have created separate repositories on Gitee and GitHub respectively, and they serve as backups for each other. 
+
+On Gitee, please use the "RealWorldEvolutionGitee" repository for all users. https://gitee.com/buzhiyuci/RealWorldEvolutionGitee
+
+On GitHub, please use the "RealWorldEvolution" repository. https://github.com/zhendebuzhiyuci/RealWorldEvolution
+
+2. To fully showcase everyone's content and ensure the validity of the final result, we adopted a three-level presentation branch. 
+
+"PreSubmission" 
+
+serves as the base branch, allowing everyone to submit their content, which fully showcases the submitted items. 
+
+
+"Submission" 
+
+as the approved branch, allows certain authorized personnel to merge it and display the filtered content. 
+
+
+"Main" 
+
+serves as the final branch, presenting the content that has been approved by people. 
+
+3. The most basic requirements for submitting content 
+
+By applying "The Definition of Existence and the Principle of Universal Unity of the World", the analysis is conducted in compliance with platform and local regulations. 
+
+
+
+
+
+
+
+
+
+
+# Who Can Participate 
+
+Everyone can do it. As long as one understands and grasps the "Definition of Existence and the Principle of Universal Unity of the World", one can get involved. 
+Understanding and comprehension is a process. Based on my insights over the past few years, achieving the following three points will make it easier to understand "The Definition of Existence and the Principle of World Unity". 
+
+1. Relativity 
+
+Be realistic and pragmatic. Recognize and accept the reality that humans are created by the world, and in turn, humans understand this world. This is our limitation - we cannot reach the top or go to the bottom. Everything should be approached from a relative perspective. Relative theories, relative cognition, relative right and wrong. A broader perspective, more imaginative thinking, and deeper reflection. 
+
+
+2. Equality 
+
+Only by cultivating the ability to view everything equally, that is, the ability to look at things from a level perspective, can one have a more objective understanding of this world. All human beings are born equal - everyone is equal, all beings are equal, everything is equal. Only in this way can one empathize with the family self, the national self, the world self, and also feel the cellular self, the atomic self, and even the original self. I will have no self. 
+
+3. Combining historical analysis with structural analysis 
+
+When dealing with a matter, one should understand it from three perspectives: the scientific structural analysis method, the individual's life growth process, and the historical species evolution method. Taking the human brain as an example, from the scientific structural analysis method, we know the structure distribution of the brain and understand its specific functions. From the individual's life growth process, we understand the hardware foundation and growth of the brain, as well as the process of exercising the brain. From the historical species evolution, we know that the brain has experienced neural conduction, state machine control, emotional and affective functions, as well as the establishment of the human abstract world. 
+
+
+
+# We will also continue to conduct community sharing. 
+
+1. WeChat Official Account: 真的不止于此
+
+https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk3NTE5NjA4OA==&action=getalbum&album_id=4345637659667546119&from_itemidx=1&from_msgid=2247483751&#wechat_redirect
+
+There is a series of articles. Due to the current financial constraints, they are set as paid content. We sincerely hope that everyone will support them. 
+
+2. 视频号、抖音、B站、小红书、知乎：账号均为  真的不止于此  。视频内容等待更新。 
+
+3. Publishing books - awaiting update 
+
+4. Facebook 
+
+https://www.facebook.com/profile.php?id=61586975467381
+
+X.com
+
+https://x.com/ben_shan_
+
+youtube
+
+https://www.youtube.com/channel/UC4vW809nsqor9V0cbWr7e2w
+
+
+
+
+# Regarding Profits 
+
+"Partnership Collaboration Model for Knowledge Creators in the AI Era" 
+
+https://philpapers.org/rec/GAOATK
+
+
+We hope that all your contributions on Gitee and GitHub can receive funding. 
+
+We hope even more that we can quickly enter the era of AI collaboration, and enable the integration of AI from multiple platforms into Gitee and GitHub. 
+
+In the future, you may not need to use the Gitee and GitHub platforms at all. Instead, you can directly communicate with AI and update the knowledge system on Gitee and GitHub. 
+
+You can also earn money during the conversation with the AI.
