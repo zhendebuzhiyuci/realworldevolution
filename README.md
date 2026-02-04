@@ -1,10 +1,18 @@
 # Welcome to RealWorldEvolution
+
+All submissions from new members are on the PreSubmission branch.
+
 # Welcome to the evolution of the real world
 We have just used GitHub and if there are any mistakes, please bear with us. Thank you all for your help. 
 
 
 
-# "The definition of existence and the principle of the unity of the world" https://philpapers.org/rec/GAOTDO-5
+# "The definition of existence and the principle of the unity of the world"
+
+ Read the research paper document first
+ 
+ https://philpapers.org/rec/GAOTDO-5
+ 
 
 # This is the smallest logical unit of the world's evolution.
 
